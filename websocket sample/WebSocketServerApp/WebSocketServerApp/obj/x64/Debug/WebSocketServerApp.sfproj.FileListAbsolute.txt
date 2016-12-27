@@ -1,0 +1,1 @@
+D:\Bizruntime\visual studio workspace\service Fabric\WebSocketServerApp\WebSocketServerApp\obj\x64\Debug\WebSocketServerApp.sfprojResolveAssemblyReference.cache
