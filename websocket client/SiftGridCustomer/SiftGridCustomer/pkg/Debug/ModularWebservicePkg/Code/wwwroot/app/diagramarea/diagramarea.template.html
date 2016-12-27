@@ -1,0 +1,52 @@
+<div class="DiagramArea">
+    <div id="wrapper" class="AreaPaneSmall" style="position:absolute">
+        <ul id="tabs"></ul>
+    </div>
+
+    <div [hidden]="showAreaDiagram">
+        <div id="AreaDiagram" class="AreaDiagram"> </div>
+        <div>
+            <div id="myOverviewDiv1"> </div>
+            <div id="overview">
+                <button (click)="zoomOut()"><span class="glyphicon glyphicon-zoom-out"></span></button>
+                <button (click)="zoomIn()" style="margin-left:185px"><span class="glyphicon glyphicon-zoom-in"></span></button>
+            </div>
+        </div>
+
+            <div id="newPalette" style="visibility:hidden;">
+                <newareapalette></newareapalette>
+            </div>
+        </div>
+    <div [hidden]="showDiagram">
+        <div id="diagramDiv" class="AreaDiagram"></div>
+        <div>
+            <div id="myOverviewDiv"> </div>
+            <div id="overview">
+                <button (click)="zoomOut()"><span class="glyphicon glyphicon-zoom-out"></span></button>
+                <button (click)="zoomIn()" style="margin-left:185px"><span class="glyphicon glyphicon-zoom-in"></span></button>
+            </div>
+        </div>
+        <diagram></diagram>
+ 
+        <div id="pallet" style="visibility: hidden;">
+            <palette></palette>
+        </div>
+    </div>
+
+    <div [hidden]="showPeopleDiagram">
+        <div id="peopleDiagram" class="AreaDiagram"></div>
+        <div>
+            <div id="myOverviewDiv2"> </div>
+            <div id="overview">
+                <button (click)="zoomOut()"><span class="glyphicon glyphicon-zoom-out"></span></button>
+                <button (click)="zoomIn()" style="margin-left:185px"><span class="glyphicon glyphicon-zoom-in"></span></button>
+            </div>
+        </div>
+
+        <div id="peoplePalette" style="visibility:hidden">
+            <peoplepalette></peoplepalette>
+        </div>
+
+    </div>
+</div>
+

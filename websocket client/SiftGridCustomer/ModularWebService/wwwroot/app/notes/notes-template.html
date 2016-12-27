@@ -1,0 +1,30 @@
+﻿<div id="NotesChatPane">
+       <button style="background-color:#303030; border-color:#303030; color:white">NOTES</button>
+    <button style="background-color:#2ECC71;border-color:#4cff00;" (click)="createTextArea()">
+            <span class="glyphicon glyphicon-plus"></span>
+    </button>
+        <div id="body" class="scrollbar" >
+            <div id="noteid" style="display:none;">
+                <!--<textarea id="NotesArea" style="color:black;" rows="6" cols="25"></textarea>-->
+                <textarea id="NotesArea" (keyup)="textAreaAdjust(this)" style="overflow:hidden;color:black;width:390px;"></textarea>
+                <button class="btn btn-info btn-sm" style="border-color:#4cff00;" (click)="saveNotes()"><span class="glyphicon glyphicon-save"></span>save</button>
+                <button (click)="CancelNote()" style="background-color:#303030;">cancel</button>
+            </div>
+            <div *ngFor="let noteData of notesData; let i=index">
+                <div (mouseover)="MouseOver(i, $event)" (mouseleave)="MouseLeave(i,$event)">
+                    <textarea id={{noteData.noteid}} (load)="textAreaAdjust1(noteData.noteid)" (keyup)="textAreaAdjust1(noteData.noteid)" style="z-index:-1; background-color:grey;overflow:hidden;color:black;width:320px;border-color:#4cff00;color:white;" disabled>{{noteData.noteMsg}}</textarea>
+                    <div  id={{i}} style="margin-left:4px;display:none;">
+                            <button class="btn btn-info btn-sm" style="border-color:#4cff00;" (click)="editNote(noteData.noteid)"><span class="glyphicon glyphicon-pencil"></span></button>
+                    
+                            <button class="btn btn-info btn-sm" style="border-color:#4cff00;" (click)="updateNote(noteData.noteid)"><span class="glyphicon glyphicon-saved"></span></button>
+                       
+                            <button class="btn btn-info btn-sm" style="border-color:#4cff00;" (click)="DeleteNote(noteData.noteid)"><span class="glyphicon glyphicon-trash"></span></button>
+                        
+                            <button class="btn btn-info btn-sm" style="border-color:#4cff00;" (click)="FlagNote(noteData.noteid)"><span class="glyphicon glyphicon-flag"></span></button>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+

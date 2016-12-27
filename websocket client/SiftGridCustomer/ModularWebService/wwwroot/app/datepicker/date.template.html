@@ -1,0 +1,24 @@
+﻿<!--<datetime [(ngModel)]="date5" (click)="getDateAndTime(date5)"></datetime>
+{{getDate(date5) | date: "medium"}}-->
+
+<!--<input type="date" id="datetimepicker" (change)="getDateAndTime()" style="background-color:grey;color:white;"/>-->
+<!--<input id="date" type="date" name="task_date" />
+<input id="time" type="time" name="task_time" />-->
+
+
+    <!--<div id="datetimepicker" class="input-append date">
+        <input type="text" id="datetime" style="width:150px;height:25px;" />
+        <span class="add-on">
+            <button (click)="show()">choose</button>
+        </span>
+        <button (click)="getDateAndTime()">apply</button>
+    </div>-->
+
+
+<a class='input-group date datepicker TimeMachineButton'>
+    <input type='text' class="form-control" #datePicker id="datePicker" (blur)="date = datePicker.value" style="display:none;">
+    <span class="input-group-addon">
+        <button><span class="glyphicon glyphicon-calendar"></span></button>
+        <button><span class="glyphicon glyphicon-ok" (click)="getDateAndTime()"></span></button>
+</span>
+</a>

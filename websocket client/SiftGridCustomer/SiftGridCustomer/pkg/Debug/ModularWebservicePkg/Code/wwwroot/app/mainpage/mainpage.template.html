@@ -1,0 +1,116 @@
+<div class="container-fluid">
+    <!-- START HEADER -->
+    <div class="row">
+        <div class="col-md-14" style="margin-left:-5px;">
+            <header></header>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-1" style="margin-left:-30px;">
+            <leftpannel></leftpannel>
+        </div>
+        <div class="col-md-10">
+            <div class="col-md-2">
+                <div id="lefttoggle" class="collapse">
+                    <!--<lefttoggle #area
+                                [(myDiagram)]="diagram.diagram"
+                                (myEvent)="diagram.CreateAreasDiagram(area.diagramID)">
+
+                    </lefttoggle>-->
+                    <lefttoggle #area
+                                (createAreaDiagramEvent)="areaDiagram.CreateAreasDiagram($event)"
+                                (createPeopleDiagramEvent)="peopleDiagram.getPeopleDiagramJson($event)">
+
+                    </lefttoggle>
+                    <div id="myTreeDiv" style="height: 50%;width:250px; top: 130px; background-color:  #404040;">
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-md-8" id="wrapper">
+                <ul id="tabs"></ul>
+
+
+                <div>
+                    <div id="myAreaPaletteDiv" style="height:100px;width:1000px;background-color:white;visibility:hidden;"></div>
+                    <div id="myDiagramDiv" style="height:520px; width:1000px; background-color: white; border: double; border-color: #DAE4E4;">
+
+                    </div>
+                    <areapalette #areaPallete></areapalette>
+
+                    <diagram #diagram
+                             (showPaletteEvent)="areaPallete.IsShowPalletShow($event)" 
+                             (showArea)="areaDiagram.CreateAreasDiagram($event)"
+                             [(areaDiagrams)]="areaDiagram.areaDiagrams"
+                             [(areaTreeDiagram)]="areaDiagram.areaTreeDiagram"
+                             [(peopleDiagram)]="peopleDiagram.peopleDiagram"
+                             [(peopleTreeDiagram)]="peopleDiagram.peopleTreeDiagram">
+                    </diagram>
+                    <areadiagram #areaDiagram
+                                 (createDiagramEvent)="diagram.DisplayDiagram($event)"
+                                 (showPaletteEvent)="areaPallete.IsShowPalletShow($event)"
+                                 [(peopleDiagram)]="peopleDiagram.peopleDiagram"
+                                 [(peopleTreeDiagram)]="peopleDiagram.peopleTreeDiagram"
+                                 [(diagrams)]="diagram.diagrams"
+                                 [(diagramTree)]="diagram.diagramTree">
+
+                    </areadiagram>
+                    <people #peopleDiagram
+                            (showPaletteEvent)="areaPallete.IsShowPalletShow($event)"
+                            [(areaDiagrams)]="areaDiagram.areaDiagrams"
+                            [(areaTreeDiagram)]="areaDiagram.areaTreeDiagram"
+                            [(diagrams)]="diagram.diagrams"
+                            [(diagramTree)]="diagram.diagramTree">
+                    </people>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div id="pallet" style="visibility: hidden;">
+                    <pallet></pallet>
+                </div>
+                <div id="info" style="visibility: hidden;">
+                    <info [(diagramId)]="diagram.guid"
+                          (myEvent)="err.GetErrorsBy(diagram.guid)"></info>
+                 </div>
+                <div id="notes" style="visibility: hidden;">
+                    <notes [(diagramId)]="diagram.guid" [(locationId)]="diagram.locationId"></notes>
+                </div>
+            </div>
+            <!-- BOTTOM TEMPLATE -->
+            <div>
+                <!-- FUEL TEMPLATE -->
+                <div id="fuel" style="display: none;">
+                    <fuelconsumer></fuelconsumer>
+                </div>
+                <!-- END FUEL TEMPLATE -->
+                <!-- ERROR TEMPLATE -->
+                <div id="error" style="visibility: hidden;">
+                    <error #err [(diagram)]="diagram.diagrams"></error>
+                </div>
+                <!-- END OF ERROR TEMPLATE -->
+                <!-- DOCUMENT TEMPLATE -->
+                <div id="document" style="display: none;">
+                    <document></document>
+                </div>
+                <!-- END OF DOCUMENT TEMPLATE -->
+            </div>
+            <!-- END OF BOTTOM TEMPLATE -->
+        </div>
+        <div class="col-md-1">
+            <rightpannel></rightpannel>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-14" style="margin-left:-5px;">
+            <footer (myEvent)="err.GetErrorsBy(diagram.guid)"
+                    (myEvent1)="showError()">
+
+            </footer>
+        </div>
+    </div>
+
+</div>

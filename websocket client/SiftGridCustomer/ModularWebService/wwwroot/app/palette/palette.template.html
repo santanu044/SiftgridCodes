@@ -1,0 +1,69 @@
+﻿<div id="paletteDraggable" class="draggable" style="width:265px; ">
+    <div id="AssetsPaletteHeaderBG" class="handle">
+        <label id="AssetsPaletteHeaderTitle">Asserts</label>
+        <!--<div><a style="color:white; cursor: pointer;" (click)="changePalletView()">Togg</a></div>-->
+        <div><input type="checkbox" checked data-toggle="toggle" (click)="changePalletView()"></div>
+        <div id="Bounds"><img role="button" src="../../images/CloseIcon.svg" (click)="closepallete()" /></div>
+        <label id="AssetsPaletteHeaderSubtext">Create New...</label>
+    </div>
+
+    <div class="scrollbar">
+        <button id="WellsCategoryBG" class="accordion">
+            <div>Well</div>
+            <div class="WaterColor">Gas, Oil, Injection, Lift...</div>
+        </button>
+        <div id="Wellspanel">
+            <div id="myWellsPaletteDiv"></div>
+        </div>
+        <!--Major Equipments Pallet-->
+        <button id="MajorEquipmentCategoryBG" class="accordion">
+            <div>Major Equipments</div>
+            <div class="WaterColor">Compressor, Pump, Line Heater...</div>
+        </button>
+        <div id="Majorpanel">
+            <div id="myMEPaletteDiv" class="subdiv"></div>
+        </div>
+
+        <!--Meters Pallet-->
+        <button id="MetersCategoryBG" class="accordion">
+            <div>Meters</div>
+            <div clMetersass="WaterColor">Orifice, PD, Turbine...</div>
+        </button>
+        <div id="Meterspanel">
+            <div id="myMeterPaletteDiv" class="subdiv"></div>
+        </div>
+
+        <!--Tanks and Vessels Pallet-->
+        <button id="TanksAndVesselsCategoryBG" class="accordion">
+            <div>Tanks and Vessels</div>
+            <div class="WaterColor">Separator, Scrubber, Pond...</div>
+        </button>
+        <div id="TanksAndVesselspanel">
+            <div id="myTVPaletteDiv" class="subdiv"></div>
+        </div>
+
+        <button id="MinorEquipmentCategoryBG" class="accordion">
+            <div>Minor Equipment</div>
+            <div class="WaterColor">Fuel Gas, Valve, Truck, Flare...</div>
+        </button>
+        <div id="MinorEquipmentpanel">
+            <div id="myMIEPaletteDiv" class="subdiv"></div>
+        </div>
+
+        <button id="LinkConnectorsCategoryBG" class="accordion">
+            <div>Link Connector</div>
+            <div class="WaterColor">T Connector, X Connector...</div>
+        </button>
+        <div id="LinkConnectorspanel">
+            <div id="myLCPaletteDiv" class="subdiv"></div>
+        </div>
+
+        <button id="ShapesCategoryBG" class="accordion">
+            <div>Shapes</div>
+            <div class="WaterColor">Circle, Square, Triangle...</div>
+        </button>
+        <div id="Shapespanel">
+            <div id="mySPaletteDiv" class="subdiv"></div>
+        </div>
+    </div>
+</div>

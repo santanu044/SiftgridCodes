@@ -1,0 +1,76 @@
+<div id="InfoPerspectivesPane" class="scrollbar" style="z-index:500;color:white">
+    <button style="background-color:#303030; border-color:#303030; color:white">INFO</button>
+    <div id="body" *ngIf="infoPaneFormSchema && infoProperties">
+        <div *ngFor="let typeLiteral of arrayType; let i=index; ">
+
+            <!-- =============This template is used for text box============= -->
+            <div id="text" *ngIf="typeLiteral === 'string' ">
+                <div class="col-md-12 col-sm-12">
+                    <div class="col-md-4 col-sm-4">
+                        <label [style.color]="coloringLabel(arrayLabelKeys[i])">{{arrayLabelKeys[i]}}</label>
+                    </div>
+                    <div class="col-md-8 col-sm-8">
+                        <input id="{{arrayLabelKeys[i]}}" type="text" [(ngModel)]="infoProperties[arrayLabelKeys[i]]"
+                               (change)="updateValue($event.target.value,arrayLabelKeys[i])" class="textClass" />
+                    </div>
+                </div>
+            </div>
+            <!-- ====================END OF TEMPLATE==================== -->
+            <!-- =============This template is used for True/False============= -->
+            <div id="text" *ngIf="typeLiteral === 'boolean' ">
+                <div class="col-md-12 col-sm-12">
+                    <div class="col-md-4 col-sm-4">
+                        <label [style.color]="coloringLabel(arrayLabelKeys[i])">{{arrayLabelKeys[i]}}:</label>
+                    </div>
+                    <div class="col-md-8 col-sm-8">
+                        <input [(ngModel)]="infoProperties[arrayLabelKeys[i]]" name="{{arrayLabelKeys[i]}}" type="checkbox"
+                               (change)="updateValue($event.target.value,arrayLabelKeys[i])" />
+                    </div>
+                </div>
+            </div>
+            <!-- ====================END OF TEMPLATE==================== -->
+            <!-- =============This template is used for Multiselect============= -->
+            <div *ngIf="typeLiteral === 'array' ">
+                <div class="col-md-12 col-sm-12">
+                    <div class="col-md-4 col-sm-4">
+                        <label>{{arrayLabelKeys[i]}}:</label>
+                    </div>
+                    <div class="col-md-8 col-sm-8">
+                        <select [(ngModel)]="infoProperties[arrayLabelKeys[i]]" (ngModelChange)="updateMultiSelect()">
+                            <option *ngFor="let j of infoPaneFormSchema['properties'][arrayLabelKeys[i]]['items']['enum']" value="{{j}}">{{j}}</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <!-- ====================END OF TEMPLATE==================== -->
+            <!-- =============This template is used for NJsonschema multiselect============= -->
+            <div *ngIf="typeLiteral === 'nJsonSchema' ">
+                <div class="col-md-12 col-sm-12">
+                    <div class="col-md-4 col-sm-4">
+                        <label>{{arrayLabelKeys[i]}}:</label>
+                    </div>
+                    <div class="col-md-8 col-sm-8">
+                        <select [(ngModel)]="infoProperties[arrayLabelKeys[i]]" (ngModelChange)="updateMultiSelect()">
+                            <option *ngFor="let j of infoPaneFormSchema['definitions'][arrayLabelKeys[i]]['enum']" value="{{j}}">{{j}}</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <!-- ====================END OF TEMPLATE==================== -->
+            <!-- =============This template is used for number textbox============= -->
+            <div *ngIf="typeLiteral === 'number' ">
+                <div class="col-md-12 col-sm-12">
+                    <div class="col-md-4 col-sm-4">
+                        <label [style.color]="coloringLabel(arrayLabelKeys[i])">{{arrayLabelKeys[i]}}</label>
+                    </div>
+                    <div class="col-md-8 col-sm-8">
+                        <input type='number' [(ngModel)]="infoProperties[arrayLabelKeys[i]]" (change)="updateMultiSelect()" class="textClass" />
+                    </div>
+                </div>
+            </div>
+            <!-- ====================END OF TEMPLATE==================== -->
+
+
+        </div>
+    </div>
+</div>

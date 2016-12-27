@@ -1,0 +1,209 @@
+﻿button.accordion {
+            cursor: pointer;           
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-family: Roboto-Regular;
+            font-size: 12px;
+            color: #FFFFFF;
+            transition: 0.4s;  
+            padding-left:70px;    
+     }
+     button.accordion.active, button.accordion:hover {
+            background-color: #DAE4E4;
+     }
+
+     div.panel {
+            padding: 0 18px;
+            background: rgba(51,51,51,0.25);
+            box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.20), inset 0 0 5px 0 rgba(0,0,0,0.40);
+     }
+     div.panel.hide {
+            display: none;
+     }
+        #paletteDraggable {
+            height:452px;
+            width:265px;
+            background: rgba(65,65,65,0.95);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.12);
+            border-radius: 6px 6px 0 6px;
+            background-color:rgba(66,66,66,0.95);
+            opacity:100%;            
+        }
+         #AssetsPaletteHeaderBG {
+            height:52px;
+            width:265px;
+            opacity:100%;
+            background: rgba(32,32,32,0.50);
+            box-shadow: 0 0 2px 0 rgba(0,0,0,0.12), 0 2px 2px 0 rgba(0,0,0,0.24);
+        }
+         #WellsCategoryBG{        
+         width:265px;
+         height:50px;
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         background-color: rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+          #MajorEquipmentCategoryBG {      
+         width:265px;
+         height:50px;
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         background-color: rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+         #MetersCategoryBG {     
+         width:265px;
+         height:50px;
+         background-color: rgba(255,255,255,0.15);
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+
+        #TanksAndVesselsCategoryBG {
+         width:265px;
+         height:50px;
+         background-color: rgba(255,255,255,0.15);
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+        #MinorEquipmentCategoryBG{
+         width:265px;
+         height:50px;
+         background-color: rgba(255,255,255,0.15);
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+        #LinkConnectorsCategoryBG{
+         width:265px;
+         height:50px;
+         background-color: rgba(255,255,255,0.15);
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+        #ShapesCategoryBG{
+         width:265px;
+         height:50px;
+         background-color: rgba(255,255,255,0.15);
+         box-shadow: inset 0 -1px 0 0 rgba(255,255,255,0.15);
+         opacity:100%;
+        }
+        #AssetsPaletteHeaderTitle {   
+            position:absolute;
+            left:18px;   
+            width:50px;
+            height:21px;
+            top:6px;            
+            font-family: Roboto-Regular;
+            font-size: 16px;
+            color: #FFFFFF;           
+        }
+        #AssetsPaletteHeaderSubtext {
+            position:absolute;
+            left:18px;
+            top:27px;
+            width:80px;
+            height:16px;
+            color:rgba(158,158,158,1);
+            font-family: Roboto-Regular;
+            font-size: 12px;
+            color: #9E9E9E;
+        }       
+
+      #WellsCategoryTitle{
+            position:absolute;
+            left:60px;
+            top:65px;
+            width:30px;
+            height:16px;
+            opacity:100%;
+            font-family: Roboto-Regular;
+            font-size: 12px;
+            color: #FFFFFF;
+        }   
+        #WellsCategorySubtext{
+            position:absolute;
+            left:60px;
+            top:80px;
+            width:126px;
+            height:16px;
+            color:rgba(158,158,158,1);
+            font-family: Roboto-Regular;
+            font-size: 12px;
+            color: #9E9E9E;
+        }
+        .WaterColor {
+            font-family: Roboto-Regular;
+            font-size: 12px;
+            color: #9E9E9E;
+        }
+       #Bounds{      
+            position:absolute;
+            left:243px;
+            top:16px;
+            width:15px;
+            height:15px;
+        }
+       /*well, subdiv size*/
+        #Wellspanel {
+            width:230px;
+            height:230px
+        }
+        #myWellsPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+       /*Major, subdiv size*/
+        #Majorpanel {
+            width:230px;
+            height:230px
+        }
+        #myMEPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+         /*Major, subdiv size*/
+        #Meterspanel {
+            width:230px;
+            height:230px
+        }
+        #myMeterPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+        /*TanksAndVessels, subdiv size*/
+        #TanksAndVesselspanel {
+            width:230px;
+            height:230px
+        }
+        #myTVPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+        /*MinorEquipment, subdiv size*/
+        #MinorEquipmentpanel {
+            width:230px;
+            height:230px
+        }
+        #myMIEPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+        /*LinkConnectors, subdiv size*/
+        #LinkConnectorspanel {
+            width:230px;
+            height:230px
+        }
+        #myLCPaletteDiv {
+            width:230px;
+            height:224px;
+        }
+        /*Shapes, subdiv size*/
+        #Shapespanel {
+            width:230px;
+            height:230px
+        }
+        #mySPaletteDiv {
+            width:230px;
+            height:224px;
+        }

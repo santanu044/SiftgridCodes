@@ -1,0 +1,161 @@
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.exe
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.exe
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
+D:\JP\Modular\VisualStudio\POC\SiftgridCustomer without timemachine\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.csprojResolveAssemblyReference.cache
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.exe
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.KeyVault.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Hyak.Common.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Common.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.pdb
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.KeyVault.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Hyak.Common.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Common.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
+D:\Project\SiftGridPoc\SiftgridCustomer With TimeMachine2\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.csprojResolveAssemblyReference.cache
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.exe
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.KeyVault.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Hyak.Common.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Common.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\DiagramApi.pdb
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\EntityFramework.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.KeyVault.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Hyak.Common.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Azure.Common.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\17-11-2016-companysetup\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.xml
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.dll
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.pdb
+D:\Project\22-11-2016\SiftgridCustomer With TimeMachine2\SiftgridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll.config
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\ServiceFabricServiceModel.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.Strings.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\Newtonsoft.Json.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.pdb
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\NJsonSchema.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\bin\Debug\System.Fabric.xml
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.csprojResolveAssemblyReference.cache
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+D:\JP\Modular\TeamService\DiagramApi\SiftGridCustomer\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb
