@@ -1,0 +1,22 @@
+#:D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\PublishingActor.Interfaces\PublishingActor.Interfaces.csproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\SubscribingActor.Interfaces\SubscribingActor.Interfaces.csproj
+#:D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\SubscribingActor\SubscribingActor.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\PubSubService\PubSubService.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\SubscribingStatefulService\SubscribingStatefulService.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\PubSubActor\PubSubActor.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\PublishingStatelessService\PublishingStatelessService.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\PublishingActor\PublishingActor.csproj
+D:\Bizruntime\visual studio workspace\Application4\Application4\Application4.sfproj|D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj
+D:\Bizruntime\visual studio workspace\Application4\SubscribingActor\SubscribingActor.csproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\SubscribingActor\SubscribingActor.csproj|D:\Bizruntime\visual studio workspace\Application4\SubscribingActor.Interfaces\SubscribingActor.Interfaces.csproj
+D:\Bizruntime\visual studio workspace\Application4\SubscribingStatefulService\SubscribingStatefulService.csproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\PubSubActor\PubSubActor.csproj|D:\Bizruntime\visual studio workspace\Application4\PubSubActor.Interfaces\PubSubActor.Interfaces.csproj
+D:\Bizruntime\visual studio workspace\Application4\PublishingStatelessService\PublishingStatelessService.csproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\PublishingActor\PublishingActor.csproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\PublishingActor\PublishingActor.csproj|D:\Bizruntime\visual studio workspace\Application4\PublishingActor.Interfaces\PublishingActor.Interfaces.csproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\DataContracts\DataContracts.csproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\PublishingActor.Interfaces\PublishingActor.Interfaces.csproj
+D:\Bizruntime\visual studio workspace\Application4\Web1\Web1.xproj|D:\Bizruntime\visual studio workspace\Application4\SubscribingActor.Interfaces\SubscribingActor.Interfaces.csproj

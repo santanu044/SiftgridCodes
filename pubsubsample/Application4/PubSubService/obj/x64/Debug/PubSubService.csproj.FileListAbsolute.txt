@@ -1,0 +1,54 @@
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\PubSubService.exe.config
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\PubSubService.exe
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\PubSubService.pdb
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\ServiceFabric.PubSubActors.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\ServiceFabricServiceModel.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\System.Fabric.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\System.Fabric.Strings.dll
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\bin\x64\Debug\System.Fabric.xml
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\obj\x64\Debug\PubSubService.exe
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\PubSubService\obj\x64\Debug\PubSubService.pdb
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\PubSubService.exe.config
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\PubSubService.exe
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\PubSubService.pdb
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\ServiceFabric.PubSubActors.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\ServiceFabricServiceModel.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\System.Fabric.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\System.Fabric.Strings.dll
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\bin\x64\Debug\System.Fabric.xml
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\obj\x64\Debug\PubSubService.exe
+D:\Bizruntime\visual studio workspace\Application4\PubSubService\obj\x64\Debug\PubSubService.pdb

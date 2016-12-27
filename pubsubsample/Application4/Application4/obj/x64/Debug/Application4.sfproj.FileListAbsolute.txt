@@ -1,0 +1,2 @@
+D:\Bizruntime\visual studio workspace\service Fabric\Application4\Application4\obj\x64\Debug\Application4.sfprojResolveAssemblyReference.cache
+D:\Bizruntime\visual studio workspace\Application4\Application4\obj\x64\Debug\Application4.sfprojResolveAssemblyReference.cache

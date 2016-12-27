@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "exports": {
+    "DataContracts/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/x64/Debug/DataContracts.dll": {}
+      },
+      "runtime": {
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/Microsoft.ServiceFabric.Actors.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/ServiceFabricServiceModel.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.Interfaces.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.dll": {},
+        "../packages/Microsoft.ServiceFabric.Services.2.3.301/lib/net45/Microsoft.ServiceFabric.Services.dll": {},
+        "../packages/Microsoft.ServiceFabric.Services.Wcf.2.3.301/lib/net45/Microsoft.ServiceFabric.Services.Wcf.dll": {},
+        "../packages/Newtonsoft.Json.9.0.1/lib/net45/Newtonsoft.Json.dll": {},
+        "../packages/ServiceFabric.PubSubActors.4.5.4/lib/net451/ServiceFabric.PubSubActors.dll": {},
+        "../packages/ServiceFabric.PubSubActors.Interfaces.4.5.4/lib/net451/ServiceFabric.PubSubActors.Interfaces.dll": {},
+        "../packages/System.Collections.Immutable.1.2.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll": {},
+        "bin/x64/Debug/DataContracts.dll": {}
+      },
+      "contentFiles": {
+        "bin/x64/Debug/DataContracts.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PublishingActor.Interfaces/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/x64/Debug/PublishingActor.Interfaces.dll": {}
+      },
+      "runtime": {
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/Microsoft.ServiceFabric.Actors.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/ServiceFabricServiceModel.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.Interfaces.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.dll": {},
+        "../packages/Microsoft.ServiceFabric.Services.2.3.301/lib/net45/Microsoft.ServiceFabric.Services.dll": {},
+        "../packages/Newtonsoft.Json.9.0.1/lib/net45/Newtonsoft.Json.dll": {},
+        "../packages/ServiceFabric.PubSubActors.Interfaces.4.6.0/lib/net451/ServiceFabric.PubSubActors.Interfaces.dll": {},
+        "bin/x64/Debug/PublishingActor.Interfaces.dll": {}
+      },
+      "contentFiles": {
+        "bin/x64/Debug/PublishingActor.Interfaces.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "SubscribingActor.Interfaces/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/x64/Debug/SubscribingActor.Interfaces.dll": {}
+      },
+      "runtime": {
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/Microsoft.ServiceFabric.Internal.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.Strings.dll": {},
+        "../packages/Microsoft.ServiceFabric.5.3.301/lib/net45/System.Fabric.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/Microsoft.ServiceFabric.Actors.dll": {},
+        "../packages/Microsoft.ServiceFabric.Actors.2.3.301/lib/net45/ServiceFabricServiceModel.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.Interfaces.dll": {},
+        "../packages/Microsoft.ServiceFabric.Data.2.3.301/lib/net45/Microsoft.ServiceFabric.Data.dll": {},
+        "../packages/Microsoft.ServiceFabric.Services.2.3.301/lib/net45/Microsoft.ServiceFabric.Services.dll": {},
+        "../packages/Newtonsoft.Json.9.0.1/lib/net45/Newtonsoft.Json.dll": {},
+        "../packages/ServiceFabric.PubSubActors.Interfaces.4.6.0/lib/net451/ServiceFabric.PubSubActors.Interfaces.dll": {},
+        "bin/x64/Debug/SubscribingActor.Interfaces.dll": {}
+      },
+      "contentFiles": {
+        "bin/x64/Debug/SubscribingActor.Interfaces.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
